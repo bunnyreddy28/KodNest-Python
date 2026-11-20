@@ -51,3 +51,19 @@ pythons prints() function was used
   programming helps me:used to express instructions
   python helps me: it is a language to communicate or understand to the computer
   syntax tells me: rules in the python
+  ## why programming languages exist
+  To communicate the instructions to the computer and computer dont know the other language
+  ## why does a computer need instructions?
+     To solve the problems
+  ## why can we not build applications using normal human language?
+    It need some proper syntax, and require proper knowledge 
+  ## what problem do programming languages solve?
+      real world problems, based on the requirement
+  ## why is machine language difficult for humans?
+   machine language is for sharing information and does not require any grammar and rules
+  ## How does python help?
+   it is one if the programming language and easy in the syntax
+  ## My final understanding
+  A programming language acts as a bridge bteween: human and computer
+  python allows a developer to: solve the real world problems
+  A computer follows: set of instructions
